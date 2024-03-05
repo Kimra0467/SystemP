@@ -6,7 +6,5 @@
 
 ftpserver.cslab.kr
 
-
-
-
+wsl2 (window server linux) 구축하기
 
