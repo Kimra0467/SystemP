@@ -24,9 +24,9 @@ cp cs1.txt/tmp = 파일 1의 복사본을 디렉터리 내에 만듦
 
 * * *
 mv 
-파일 이름 변경, 파일을 디렉터리 내로 이동  
-실습 내용
-cs1.txt 를 cssw.txt 로 변경
+파일 이름 변경, 파일을 디렉터리 내로 이동    
+실습 내용  
+cs1.txt 를 cssw.txt 로 변경  
 mv cs1.txt cssw.txt  
 cs2.txt를 choi/cs101 로 이동  
 mv cs2.txt ../../choi/cs101  
