@@ -1,4 +1,5 @@
-# Week3  0319
+# Week3  
+date : 0319  
 mkdir, cd 명령어 사용
 sudo apt install tree / tree 설치
 * * *
@@ -111,6 +112,28 @@ $ fg %1
 
 * * *
 ### 프로세스 (process)  
+
 실행중인 프로그램을 **프로세스**  
 각 프로세스는 유일한 프로세스 번호 **PID**를 갖는다  
 ps 를 사용하여 나의 프로세스들을 확인 가능  
+$ ps  
+PID TTY TIME CMD  
+8695 pts/3 00:00:00 csh
+8750 pts/3 00:00:00 ps  
+
+$ ps u  
+USER PID %CPU %MEM VSZ RSS TTY STAT START TIME COMMAND  
+chang 8695 0.0 0.0 5252 1728 pts/3 Ss 11:12 0:00 -csh  
+chang 8793 0.0 0.0 4252 940 pts/3 R+ 11:15 0:00 ps u
+
+$ ps aux  
+USER PID %CPU %MEM VSZ RSS TTY STAT START TIME COMMAND  
+root 1 0.0 0.0 2064 652 ? Ss 2011 0:27 init [5]  
+root 2 0.0 0.0 0 0 ? S< 2011 0:01 [migration/0]  
+root 3 0.0 0.0 0 0 ? SN 2011 0:00 [ksoftirqd/0]  
+root 4 0.0 0.0 0 0 ? S< 2011 0:00 [watchdog/0]  
+...  
+root 8692 0.0 0.1 9980 2772 ? Ss 11:12 0:00 sshd: chang [pr  
+chang 8694 0.0 0.0 9980 1564 ? R 11:12 0:00 sshd: chang@pts  
+chang 8695 0.0 0.0 5252 1728 pts/3 Ss 11:12 0:00 -csh  
+chang 8976 0.0 0.0 4252 940 pts/3 R+ 11:24 0:00 ps aux  
