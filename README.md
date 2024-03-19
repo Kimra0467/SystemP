@@ -7,3 +7,7 @@
 ## [2주차](https://github.com/Kimra0467/SystemP/tree/main/Week2)
 24.03.12
 wsl2 설치
+
+## [2주차](https://github.com/Kimra0467/SystemP/tree/main/Week2)
+24.03.19
+mkdir, cd, rm 등 명령어 실습
