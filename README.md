@@ -11,3 +11,7 @@ wsl2 설치
 ## [3주차](https://github.com/Kimra0467/SystemP/tree/main/Week3)
 24.03.19
 mkdir, cd, rm 등 명령어 실습
+  
+## [4주차](https://github.com/Kimra0467/SystemP/tree/main/Week4)  
+24.03.26  
+vi 사용, 명령어/gcc 설치 등    
