@@ -18,5 +18,6 @@ main.c 작성
 
 .vimrc  
 
-동기와 비동기 블로킹과 논블로킹 발표  
-week3/readme.md 정리
+[동기와 비동기 블로킹과 논블로킹 발표](https://github.com/Kimra0467/SystemP/tree/main/Week3)  
+week3/readme.md 에 정리해놓음  
+
