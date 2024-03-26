@@ -16,7 +16,7 @@ ctrl + d 실행
 
 main.c 작성  
 
-.vimrc  
+[.vimrc설정](https://sukvvon.tistory.com/51)  
 
 [동기와 비동기 블로킹과 논블로킹 발표](https://github.com/Kimra0467/SystemP/tree/main/Week3)  
 week3/readme.md 에 정리해놓음  
