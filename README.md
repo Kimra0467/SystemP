@@ -18,4 +18,12 @@ vi 사용, 명령어/gcc 설치 등
 
 ## [5주차](https://github.com/Kimra0467/SystemP/tree/main/Week5)  
 24.04.02  
-    
+
+## [6주차](https://github.com/Kimra0467/SystemP/tree/main/Week6)  
+24.04.09  
+
+## [7주차](https://github.com/Kimra0467/SystemP/tree/main/Week7)  
+24.04.16  
+
+## [8주차](https://github.com/Kimra0467/SystemP/tree/main/Week8)  
+24.04.23  
