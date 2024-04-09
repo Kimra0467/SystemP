@@ -18,6 +18,7 @@ vi 사용, 명령어/gcc 설치 등
 
 ## [5주차](https://github.com/Kimra0467/SystemP/tree/main/Week5)  
 24.04.02  
+Makefile, 시스템 호출 등
 
 ## [6주차](https://github.com/Kimra0467/SystemP/tree/main/Week6)  
 24.04.09  
