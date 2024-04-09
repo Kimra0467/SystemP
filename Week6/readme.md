@@ -89,4 +89,4 @@ ssize_t
 
 *stddef.h에 정의되어있다.  
 [size_t/ssize_t 참고사이트](https://pubs.opengroup.org/onlinepubs/9699919799/)  
-
+ㅇㄹㅇㄹ
