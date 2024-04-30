@@ -50,6 +50,39 @@ unlink.c
 - 표준 유닉스 파일 시스템
   - 부트블록, 슈퍼블록, i-list, 데이터블록 부분으로 구성
 - 파일 i/o 구현을 위해서 커널 내에 파일 디스크립터 배열, 파일 테이블, 동적 i-node 테이블 등의 자료구조를 사용
-- 
+
+## 7장 실습
+
+### ftype.c  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/042b5930-b192-4e73-a8e5-bd566e1b3785)  
+
+ftype.c 실습  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/a129f80f-dbb1-4aaa-b26a-6a94e2e5a912)  
+
+
+### fchmod.c  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/8abd6ba3-70fb-4a28-882a-519abe82735f)  
+  
+변경 전 파일  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/4f5abeaf-9f29-48e3-9fb1-5212d09a261b)  
+  
+변경 후 파일  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/3f2761d5-c9d8-40bd-b89b-d7da3645a0d7)  
+
+
+
+### cptime.c  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/d02d472a-66e5-42ad-9eed-751f6d642466)  
+  
+실행 방법  
+./cptime [원본 파일명] [대상 파일명]  
+
+실행 전  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/6672c4fb-dffc-4075-8ee3-227575aea0e6)  
+
+실행 후  
+![image](https://github.com/Kimra0467/SystemP/assets/87680279/3e4063d7-82ea-444c-9f4a-e3e23d4aa962)  
+
+### list1.c
 
 
