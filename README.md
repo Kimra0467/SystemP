@@ -29,7 +29,7 @@ Makefile, 시스템 호출 등
 ## [8주차](https://github.com/Kimra0467/SystemP/tree/main/Week8)  
 24.04.23  중간고사
 
-## [9주차](https://github.com/Kimra0467/SystemP/tree/main/Week1) 
+## [9주차](https://github.com/Kimra0467/SystemP/tree/main/Week9) 
 24.04.30
 
 ## [10주차](https://github.com/Kimra0467/SystemP/tree/main/Week2)
