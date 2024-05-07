@@ -90,11 +90,11 @@ ftype.c 실습
 <img width="486" alt="스크린샷 2024-05-07 오후 4 26 00" src="https://github.com/Kimra0467/SystemP/assets/87680279/d940255b-0fad-4123-9240-84fdf785f5a6">
 
 ### link.c
-<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/8b759a18-218c-46a3-a6c3-2058f2bada6f">
+<img width="366" alt="스크린샷 2024-05-07 오후 4 27 39" src="https://github.com/Kimra0467/SystemP/assets/87680279/e1174954-7770-44d3-bb23-768321e05c61">
 
 ### unlink.c
-<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/52ca19c8-6c39-4e63-8496-fc96464247fa">
+<img width="366" alt="스크린샷 2024-05-07 오후 4 29 00" src="https://github.com/Kimra0467/SystemP/assets/87680279/2ce4ed41-e51b-43ee-9a5c-96fd9584d708">
 
 ### rlink.c
-<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/a6046df9-50d1-4800-bb42-80b60518ae35">
+<img width="426" alt="스크린샷 2024-05-07 오후 4 29 25" src="https://github.com/Kimra0467/SystemP/assets/87680279/f36e6c90-5305-4a22-b0bf-180636bdb978">
 
