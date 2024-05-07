@@ -84,5 +84,7 @@ ftype.c 실습
 ![image](https://github.com/Kimra0467/SystemP/assets/87680279/3e4063d7-82ea-444c-9f4a-e3e23d4aa962)  
 
 ### list1.c
+<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/0e08a19f-50d5-4a44-837c-ddcae2e508e5">
+
 
 
