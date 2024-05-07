@@ -4,7 +4,7 @@
 하드디스크 구조  
 플래터, 섹터, 실린더  
 
-#### EXT4, XFS, ZFS, NTFS 발표  
+### EXT4, XFS, ZFS, NTFS 발표  
 file system  
 장치에 데이터를 저장할 때 데이터의 위치나 파일명, 형식 등을 결정하는 방법  
 
@@ -93,7 +93,7 @@ findmnt, NTFS
 NTFS 안정성 강화 기능  
 저널링, VSC  
   
-#### lunux 파일 시스템 & 디스크 관리 명령어
+### lunux 파일 시스템 & 디스크 관리 명령어
 df, du, lsblk, fdisk, blkid, mount  
 파일시스템과 디스크 관리에 사용되는 명령어들  
 디스크 공간 모니터링, 파티션 관리  
@@ -162,7 +162,7 @@ mount /dev/sdb1 /mnt 와 같이 특정 파티션을 특정 폴더에 연결
 mount -t /mnt와 같이 파일 시스템 타입을 지정  
 mount -o ro /dev/sdb1 /mnt 와 같이 읽기 전용으로 연결  
 
-#### fsck, badblocks  
+### fsck, badblocks  
 사용 경우  
 정기적인 유지보수, 시스템 부팅 실패, 디스크 오류 발생, 새로운 하드웨어 설치  
   
