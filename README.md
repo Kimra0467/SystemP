@@ -30,9 +30,10 @@ Makefile, 시스템 호출 등
 24.04.23  중간고사
 
 ## [9주차](https://github.com/Kimra0467/SystemP/tree/main/Week9) 
-24.04.30
+24.04.30  
 
-## [10주차](https://github.com/Kimra0467/SystemP/tree/main/Week2)
+
+## [10주차](https://github.com/Kimra0467/SystemP/tree/main/Week10)
 24.05.7
 
 ## [11주차](https://github.com/Kimra0467/SystemP/tree/main/Week3)
