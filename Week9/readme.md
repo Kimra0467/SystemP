@@ -86,5 +86,15 @@ ftype.c 실습
 ### list1.c
 <img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/0e08a19f-50d5-4a44-837c-ddcae2e508e5">
 
+### list2.c
+<img width="486" alt="스크린샷 2024-05-07 오후 4 26 00" src="https://github.com/Kimra0467/SystemP/assets/87680279/d940255b-0fad-4123-9240-84fdf785f5a6">
 
+### link.c
+<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/8b759a18-218c-46a3-a6c3-2058f2bada6f">
+
+### unlink.c
+<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/52ca19c8-6c39-4e63-8496-fc96464247fa">
+
+### rlink.c
+<img width="342" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/a6046df9-50d1-4800-bb42-80b60518ae35">
 
