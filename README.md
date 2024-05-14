@@ -36,20 +36,20 @@ Makefile, 시스템 호출 등
 ## [10주차](https://github.com/Kimra0467/SystemP/tree/main/Week10)
 24.05.7
 
-## [11주차](https://github.com/Kimra0467/SystemP/tree/main/Week3)
+## [11주차](https://github.com/Kimra0467/SystemP/tree/main/Week11)
 24.05.14
   
-## [12주차](https://github.com/Kimra0467/SystemP/tree/main/Week4)  
+## [12주차](https://github.com/Kimra0467/SystemP/tree/main/Week12)  
 24.05.21    
 
-## [13주차](https://github.com/Kimra0467/SystemP/tree/main/Week5)  
+## [13주차](https://github.com/Kimra0467/SystemP/tree/main/Week13)  
 24.05.28  
 
-## [14주차](https://github.com/Kimra0467/SystemP/tree/main/Week6)  
+## [14주차](https://github.com/Kimra0467/SystemP/tree/main/Week14)  
 24.06.04
 
-## [15주차](https://github.com/Kimra0467/SystemP/tree/main/Week7)  
+## [15주차](https://github.com/Kimra0467/SystemP/tree/main/Week15)  
 24.06.11  
 
-## [16주차](https://github.com/Kimra0467/SystemP/tree/main/Week8)  
+## [16주차](https://github.com/Kimra0467/SystemP/tree/main/Week16)  
 24.06.18  기말고사
