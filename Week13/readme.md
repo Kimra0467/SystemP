@@ -48,6 +48,19 @@ forkWait.c 실습
 exit(1)의 의미를 잘 생각해보기  
 
 waitPid.c 실습  
+<img width="485" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/3652f90e-063e-41dd-aa76-16284cb8bac9">  
+
+fork()후에 파일 공유  
+- 자식은 부모의 fd 테이블을 복사한다
+  - 부모와 자식이 같은 파일 디스크립터를 공유
+  - 같은 파일 오프셋을 공유
+  - 부모와 자식으로 부터 출력이 서로 섞이게 됨
+- 자식에게 상속되지 않는 성질
+  - fork()의 반환값
+  - 프로세스 id
+  - 파일 잠금
+  - 설정된 알람과 시그널
+
 
 프로그램 실행  
 fork()후  
@@ -57,29 +70,38 @@ fork()후
 - 프로세스 내의 프로그램을 새 프로그램에 대치  
 보통 fork()후에 exec()
 - 새로 실행할 프로그램에 대한 정보를 arguments 로 전달한다.
-ecec()호출 성공하면
+exec()호출 성공하면
 - 자식 프로세스는 새로운 프로그램을 실행하게 되고
 - 부모는 계속해서 다음 코드를 실행하게 된다
+- exec() 호출이 성공하면 리턴할 곳이 없어진다
+- 성공한 exec() 호출은 절대 리턴하지 않는다
 
 exec1.c 실습  
+<img width="485" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/32eb6115-5056-4990-844f-764ae2b59b70">  
 
 exec2.c 실습  
+<img width="485" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/c723200b-28fe-4e4a-966a-4acde09cc75b">
 
 exec3.c 실습  
+<img width="485" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/480508d1-440a-4895-b0b8-9c8a4e42f428">
 
 system()  
 자식 프로세스를 생성하고 /bin/sh로 하여금 지정된 명령어를 실행시킨다.  
 system()함수 구현  
-fork(),exec(),watipid() 시스템 호출을 이용  
+- fork(),exec(),watipid() 시스템 호출을 이용  
 반환값  
-명령어의 종료코드  
--1 with errno: fork()혹은 watipid() 실패  
-127 :          exec()실패  
+- 명령어의 종료코드  
+- -1 with errno: fork()혹은 watipid() 실패  
+- 127 :          exec()실패  
+
+systemTest.c 실습    
+<img width="485" alt="image" src="https://github.com/Kimra0467/SystemP/assets/87680279/39294572-0774-49e2-9078-13b5d2357828">  
 
 system()함수 구현  
-
+system.c 실습  
 
 systemCall.c 
+
 여기까지 기말고사 범위  
 
 ### 발표  
