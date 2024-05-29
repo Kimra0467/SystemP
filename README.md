@@ -48,9 +48,4 @@ Makefile, 시스템 호출 등
 
 ## [14주차](https://github.com/Kimra0467/SystemP/tree/main/Week14)  
 24.06.04
-
-## [15주차](https://github.com/Kimra0467/SystemP/tree/main/Week15)  
-24.06.11  
-
-## [16주차](https://github.com/Kimra0467/SystemP/tree/main/Week16)  
-24.06.18  기말고사
+깃허브 및 명령어 구현 발표
