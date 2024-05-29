@@ -41,9 +41,10 @@ Makefile, 시스템 호출 등
   
 ## [12주차](https://github.com/Kimra0467/SystemP/tree/main/Week12)  
 24.05.21    
-
+입원  
 ## [13주차](https://github.com/Kimra0467/SystemP/tree/main/Week13)  
 24.05.28  
+프로세스  
 
 ## [14주차](https://github.com/Kimra0467/SystemP/tree/main/Week14)  
 24.06.04
