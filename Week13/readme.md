@@ -105,7 +105,7 @@ systemCall.c
 여기까지 기말고사 범위  
 
 ### 발표  
-#### booting  (서보형 자료 확인해서 다시 적기)  
+#### booting  
 부팅 과정  
 전원켜기 -> post(power on self test) -> bios 단계 -> 부팅장치검색 -> 부트로더실행 -> 실행 할 커널 선택 -> 커널 로드 및 pid 1 번 실행 -> 기타 필수 프로그램 실행
 grub 실행  
