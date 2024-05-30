@@ -93,7 +93,7 @@ findmnt, NTFS
 NTFS 안정성 강화 기능  
 저널링, VSC  
   
-### lunux 파일 시스템 & 디스크 관리 명령어
+### linux 파일 시스템 & 디스크 관리 명령어
 df, du, lsblk, fdisk, blkid, mount  
 파일시스템과 디스크 관리에 사용되는 명령어들  
 디스크 공간 모니터링, 파티션 관리  
